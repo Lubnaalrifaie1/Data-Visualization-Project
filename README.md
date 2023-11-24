@@ -24,4 +24,4 @@ The future of this project involves expanding the analysis to include more varia
 - python
 
 # Try it out
-[ colab.research.google.com](https://colab.research.google.com/drive/15QuAn6aaI0Z_d0Efw76dXLDaQa7EZSYB?usp=sharing#scrollTo=0gKozVvMv8Ab)https://colab.research.google.com/drive/15QuAn6aaI0Z_d0Efw76dXLDaQa7EZSYB?usp=sharing#scrollTo=0gKozVvMv8Ab
+[colab.research.TuneTracker.com](https://colab.research.google.com/drive/15QuAn6aaI0Z_d0Efw76dXLDaQa7EZSYB?usp=sharing#scrollTo=0gKozVvMv8Ab)
