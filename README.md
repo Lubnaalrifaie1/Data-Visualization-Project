@@ -1,3 +1,5 @@
+## **TuneTracker: Visualizing Music Dynamics**
+
 ## Inspiration
 The global music industry, with its rich diversity and dynamic evolution, serves as a muse for this project. The aim is to delve into the artistic expressions of musicians and bands across various genres. The significant role of platforms like Spotify and YouTube in shaping music consumption and distribution provides a fertile ground for analysis, offering insights into the popularity and performance of songs worldwide.
 
